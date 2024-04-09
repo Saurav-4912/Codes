@@ -11,8 +11,14 @@ public class SumOfTwoNumber {
         int SecondNumber=sc.nextInt();
 
         int Total=FirstNumber + SecondNumber;
-        System.out.println(Total);
+        System.out.println("sum : " +Total);
     }
    
 
 }
+
+/*Enter the first number : 
+  45
+  Enter the second number : 
+  12
+  57 */
