@@ -23,7 +23,10 @@ public class Swap {
 
 /*Enter the first number : 
 10
-Enter the second number : 
-12
-Value of a is : 12
-Value of b is : 10 */
+Enter the second number :
+5
+Addition : 15
+Substrction : 5
+Multiplication : 50
+Division : 2
+Modulo : 0 */
