@@ -12,7 +12,7 @@ public class AreaOfTriangle {
 
         double area=0.5 * base * height;
 
-        System.out.println("Area of triangle is : " + area);
+        System.out.println("Area of triangle is : " + area +  " " + "cms2");
     }
 }
 
@@ -21,4 +21,4 @@ public class AreaOfTriangle {
 1.5
 Enter your hight in cms :
 2.5
-Area of triangle is : 1.875 */
+Area of triangle is : 1.875 cms2 */
