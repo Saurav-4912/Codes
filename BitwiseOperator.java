@@ -10,10 +10,20 @@ public class BitwiseOperator {
 
         int result = ~Number;
         System.out.println("Result is : " + result);
+
+        //left shift
+        int result1= Number << 4;
+        System.out.println("Result is : " + result1);
+
+        //right shift
+        int result2= Number >> 2;
+        System.out.println("Result is : " + result2);
     }
 }
 
 //output
 /*Enter the number :
-5
-Result is : -6 */
+4
+Result is : -5
+Result is : 64
+Result is : 1 */
