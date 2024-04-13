@@ -10,8 +10,8 @@ public class MaxAndMin {
     }
 
     public static int Maximum(int[] arr) {
-        int Max = 0;
-        int i = 0;
+        int Max = arr[i];
+        int i = 1;
         while (i < arr.length) {
             if (arr[i] > Max) {
                 Max = arr[i];
