@@ -8,7 +8,7 @@ public class StudentScoreTernary {
         System.out.println("Enter the score : ");
         int score = sc.nextInt();
 
-        String category = score > 80 ? "High" : (score > 50) ? "Moderate" : "Low";
+        String category = score > 80 ? "High" : (score > 50 ? "Moderate" : "Low");
         System.out.println(" Your category is :" + category);
     }
 }
