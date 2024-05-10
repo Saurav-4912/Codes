@@ -13,3 +13,7 @@ public class MaxArray {
         System.out.println("Maximum value of integer array is: " + max);
     }
 }
+
+/*output =
+ * Maximum value of integer array is: 99
+ */
